@@ -47,7 +47,7 @@ CREATE TABLE IF NOT EXISTS UserInfo (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- Show table userInfoDb
-select * from userInfoDB;
+select * from userInfo;
 ```
 **N.B: If you get an error like "WS2_32.lib" is not found or something like that than copy the "WS2_32.lib" from this repository under "UDP_Server_and_Client_with_MySQL_in_C++\dependencies" and paste it to "C:\Windows" directory on your computer. Hopefully, this will solve the error.  
 If any other errors occurs you can ask me.
