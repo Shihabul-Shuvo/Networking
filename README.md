@@ -1,7 +1,7 @@
 # UDP Server and Client Application in C++ for windows using MySQL database
 
 This is a windows console application to send data using UDP port and receives data from that port. Also store the received data to MySQL database.  
-This project beginner level project using UDP port to send/receive data.
+This is a beginner level project using UDP port to send/receive data.
  
 Language Used: C/C++  
 IDE: Visual Studio 2019  
